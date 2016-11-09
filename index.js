@@ -3,6 +3,8 @@
 /**
  * splice one
  *
+ * TODO: index > len
+ * 
  * @param {Array} arr
  * @param {Number} index   index of removed item 
  * @return {Array}
