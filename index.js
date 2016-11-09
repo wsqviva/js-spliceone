@@ -15,7 +15,7 @@ function spliceOne(arr, index) {
     index = 0;
   }
   
-  while(index < len) {
+  while(index < len - 1) {
     arr[index] = arr[index + 1];
     index++;
   }
